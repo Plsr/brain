@@ -1,4 +1,8 @@
-#seed 
+---
+tags:
+  - seed
+---
+
 
 See: https://web.archive.org/web/20241211170720/https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976#.8h1rzm6vi
 

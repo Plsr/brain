@@ -1,4 +1,8 @@
-#seed
+---
+tags:
+  - seed
+---
+
 
 First, we'll need to find the hash of the commit that we want to revert to. This can be done via
 
