@@ -1,5 +1,3 @@
-# Active Listening
-
 - https://www.youtube.com/watch?v=qXjgpYevUww
   - Be present in the conversation
   - Repeat back to the person in a short and casual way what you just understood they said
