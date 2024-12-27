@@ -1,4 +1,3 @@
-#Bundler
 ## Updating gems
 To only update a specific gem, use
 

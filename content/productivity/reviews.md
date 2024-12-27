@@ -1,5 +1,9 @@
-# Reviews
-I like to refelct on what I am doing on a regular basis. This has proven useful
+> [!info] Outdated
+> 
+> This page is outdated and may not reflect my current process. I intend on coming back to it soon. (27.12.2024)
+
+
+I like to reflect on what I am doing on a regular basis. This has proven useful
 to me to keep track of what I am doing in the mid- and long-term and work out
 which things work well for me and which don't.  
 I generally reflect on three levels:

@@ -1,9 +1,3 @@
-# Unix
-
-## mkdir
-
-### Create intermediate directories
-
 Use the `-p` option:
 
 ```bash

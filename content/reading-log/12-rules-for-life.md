@@ -2,9 +2,9 @@
 
 Author: Jordan B. Peterson
 
-{% hint style="info" %}
-**Work in progress** I'm still reading this book and adding notes as I read
-{% endhint %}
+> [!warning] WIP
+>
+> I'm still reading this book and adding notes as I read 
 
 ## Foreword
 

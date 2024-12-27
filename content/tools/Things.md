@@ -11,8 +11,5 @@ I picked some parts of [[Getting Things Done (GTD)]] that I implement in my work
 - Bigger tasks are organized in Projects, with a clear next action
 - Projects are reviewed on a regular basis
 
-## Keyboard Shortcuts
-* `CTRL + <Assigned Key>` - Add a Tag to a task (Tag has to be given a shortcut in the Tag window first)
-
 ## Useful links
 * [Full list of Things 3 Keyboard Shortcuts](https://support.culturedcode.com/customer/en/portal/articles/2785159-keyboard-shortcuts-for-mac)

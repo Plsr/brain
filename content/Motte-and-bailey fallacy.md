@@ -1,13 +1,8 @@
-# Thinking
-
-(The title of this page is not great, but I can't think of a better one just yet)
-
-## Motte-and-bailey fallacy
 
 [Wikipedia](https://www.wikiwand.com/en/Motte-and-bailey_fallacy)
 
-When an arguer combines to positions, one easy to defend and the other one
-controversial and much harder to defend. When challanged on their position, they
+When an arguer combines two positions, one easy to defend and the other one
+controversial and much harder to defend. When challenged on their position, they
 will claim to only advance on the modes position.
 
 Example:  
