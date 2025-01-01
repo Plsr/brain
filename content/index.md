@@ -19,6 +19,6 @@ Pretty much everything. I started this as a repository of quick notes of learnin
 # Migration process
 - [x] Go through https://github.com/plsr/knowledge and move content here
 - [x] Go through https://github.com/Plsr/notes and move content here
-- [ ] Go through https://github.com/Plsr/notes-thing/tree/main/content and move content here
+- [x] Go through https://github.com/Plsr/notes-thing/tree/main/content and move content here
 - [ ] Go though `public notes` obsidian vault and move content here
 - [ ] Go though main Obsidian Vault and move content here
