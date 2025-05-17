@@ -1,6 +1,6 @@
 - https://www.youtube.com/watch?v=qXjgpYevUww
   - Be present in the conversation
-  - Repeat back to the person in a short and casual way what you just understood they said
+  - Repeat back to the person in a short and casual way what you just understood they said [[Mirroring]]
   - Emotion labelling
     - “It sounds like you have a hard time”
     - “I guess you’re happy this is over”
